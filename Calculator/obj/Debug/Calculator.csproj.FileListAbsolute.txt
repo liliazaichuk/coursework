@@ -1,0 +1,11 @@
+X:\учёба\универ\курсовая\Calculator\Calculator\bin\Debug\Calculator.exe.config
+X:\учёба\универ\курсовая\Calculator\Calculator\bin\Debug\Calculator.exe
+X:\учёба\универ\курсовая\Calculator\Calculator\bin\Debug\Calculator.pdb
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.exe
+X:\учёба\универ\курсовая\Calculator\Calculator\obj\Debug\Calculator.pdb
